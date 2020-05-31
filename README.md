@@ -4,6 +4,6 @@ Introduction to JavaScript
 
 # contributors
 
-> Professor Krasso - Bellevue University
+> Professor Cross - Bellevue University
 >
 > Anil Rayamajhi - Bellevue University
